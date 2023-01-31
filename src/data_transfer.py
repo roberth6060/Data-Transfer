@@ -36,4 +36,4 @@ def extract_transform_load(file_path, table_name):
 
 # Run function with params
 extract_transform_load("assets/docs/SpaceNK_2.0.xlsx",
-                       "Last Week Report by Store Ran")
+                       "Last Week Report by Store")
