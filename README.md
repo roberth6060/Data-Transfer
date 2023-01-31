@@ -11,18 +11,16 @@ same structure, but different number of rows.
 
 ### *Installation process* :
 
-- clone repo
-- navigate to project root folder
-- install all dependencies with yarn or npm i
-- run with yarn start or npm
-
-```bash
-
-$ git clone https://github.com/roberth6060/opulent-cars.git
-$ cd project folder
-```
-
+- Clone repo
+- Navigate to project root folder
+- Install all dependencies with pip install psycopg2 pandas sqlalchemy or pip3 install psycopg2 pandas sqlalchemy (for mac os)
+- Set up environment variables in bash_profile for database username, password,  and host or hard code data into url_object
 
 ## Author(s)
 
 * Robert C. Haye
+
+
+## Output in Postgres Database Table
+
+![1675174721610](image/README/1675174721610.png)
