@@ -20,7 +20,6 @@ same structure, but different number of rows.
 
 * Robert C. Haye
 
-
 ## Output in Postgres Database Table
 
-![1675174721610](image/README/1675174721610.png)
+![1675174721610](assets/image/README/1675174721610.png)
