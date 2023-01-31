@@ -1,6 +1,6 @@
 ## Summary
 
-Extract, transform, load (ETL)P python 3 script that extracts data from local excel file and insert the data in a postgres database table.
+Extract, transform, load (ETL) python 3 script that extracts data from local excel file and insert the data in a postgres database table.
 
 ## Requirements
 
